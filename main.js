@@ -80,13 +80,13 @@ var app = http.createServer(function (request, response) {
         ></script>
       </footer>
       <audio id="tear">
-        <source src="sound/tear.wav" type="audio/mp3" />
+        <source src="https://ddibu.kr/sound/tear.wav" type="audio/mp3" />
       </audio>
       <audio id="bell">
-        <source src="sound/bell.wav" type="audio/mp3" />
+        <source src="https://ddibu.kr/sound/bell.wav" type="audio/mp3" />
       </audio>
       <audio id="plastic">
-        <source src="sound/plastic.wav" type="audio/mp3" />
+        <source src="https://ddibu.kr/sound/plastic.wav" type="audio/mp3" />
       </audio>
   
 
